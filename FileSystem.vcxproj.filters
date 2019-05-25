@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="not_ready\modified_filetime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="change_file_attrs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="create_temp_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dir_exists_demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enumerate_local_drives.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="file_exists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get_file_size_demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get_filesystem_type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get_user_profile_dir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iterate_directories.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="snippets_launcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="copy_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\copy_self.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="create_temp_file_prefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\create_temp_file_prefix_suffix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="print_driver_type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="path_canonicalize_usage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="path_combine_snippet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get_full_path_name_snippet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\create_directory_snippet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\file_dirs_demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\filetime_to_un.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\get_file_time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\get_file_version_info_demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\get_file_sys_name.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\get_last_write_time_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\iterate_dir_official.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\is_file_hidden.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\get_short_long_path_name.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\get_user_home.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\list_dir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\wipe_disk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\special_folders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\melt_demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\mkdirs_recursive_demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\set_filetime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="not_ready\path_combine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+</Project>
